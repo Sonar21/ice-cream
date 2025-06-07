@@ -1,0 +1,14 @@
+.about_inner{
+    padding: 10px 3%;
+}
+.about_inner h3{
+    font-size: 30px;
+    text-align: center;
+}
+.about_inner h1{
+    
+    text-align: center;
+}
+.about_inner .swiper-slide img {
+    width: 100px;
+  }

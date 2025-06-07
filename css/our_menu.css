@@ -1,0 +1,83 @@
+.our_menu{
+    width: 1400px;
+    padding: 10px 3%;
+
+}
+.our_menu h3{
+    font-size: 30px;
+}
+.menu_heading,.menu_pera{
+    text-align: center;
+}
+.food_list{
+    width: 50%;
+}
+.list_pera{
+    font-weight: 300;
+}
+.item{
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items:center;
+ 
+}
+.food_img{
+    width: 50%;
+}
+
+.menu_btn{
+    margin-top: 30px;
+}
+.icecream_menu{
+    margin-top:80px ;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.food_img{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.part1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.part1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.part2{
+    display: flex;
+    align-items: center;
+}
+.part2 img{
+    width: 200px;
+    height: 400px;
+    border-radius: 10px;
+}
+.food_img1{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.part_1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.part_1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
